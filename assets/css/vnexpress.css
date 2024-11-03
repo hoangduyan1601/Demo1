@@ -1,0 +1,17 @@
+.wrapper {
+    max-width: 1500px;
+    background-color: var(--primary-color);
+    margin: 0 auto;
+}
+
+.header-title {
+    background-color: antiquewhite;
+}
+
+.header-menu {
+    background-color: aqua;
+}
+
+.body {
+    background-color: aquamarine;
+}

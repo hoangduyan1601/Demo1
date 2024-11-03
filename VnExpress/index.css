@@ -1,0 +1,63 @@
+.wrapper {
+    max-width: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgb(186, 213, 213);
+}
+
+.body-main-picture-img {
+    width: 600px;
+}
+
+.header-title {
+    display: flex;
+    margin: 0 40px ;
+}
+
+.header-title-p-1 {
+    margin-left: 20px;
+    margin-right: 35rem;
+    max-width: 20rem;
+}
+
+.header-title-p-2 {
+    width: 5rem;
+}
+
+.header-home {
+    background-color: aquamarine;
+    
+}
+
+.header-home-list {
+    display: flex;
+    list-style: none;
+    margin: 0 2rem;
+}
+
+.header-home-item {
+    margin-right: 20px;
+}
+
+.body-main {
+    display: flex;
+}
+
+.body-content {
+    display: flex;
+}
+
+.body-content-1 {
+    background-color: blue;
+}
+
+.body-content-2 {
+    background-color: blueviolet;
+}
+
+.body-content-3 {
+    background-color: rgb(76, 14, 70);
+}
